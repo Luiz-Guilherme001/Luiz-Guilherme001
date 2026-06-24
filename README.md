@@ -50,7 +50,7 @@ Sistema web completo desenvolvido para gerenciar equipamentos, manutenções, ch
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Guilherme-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/luiz-guilherme-penedo-pinto)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luizpinto82@gmail.com)
 
 ---
 
