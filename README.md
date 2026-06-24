@@ -44,7 +44,6 @@ Sistema web completo desenvolvido para gerenciar equipamentos, manutenções, ch
 
 - 🎓 Bacharelado em **Ciência da Computação** — UNINTER *(em andamento)*
 - 🎓 **Técnico em Informática** — EETEPA Vilhena Alves *(em andamento)*
-- 🎓 **Técnico em Mecânica** — SENAI *(2024)*
 
 ---
 
